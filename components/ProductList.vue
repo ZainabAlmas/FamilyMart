@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="navbar">
-      <h1>MegaMart</h1>
+      <h1>MarketMingle</h1>
       <input
         type="text"
         id="Search here"
